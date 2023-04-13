@@ -1,2 +1,4 @@
-/Migration
+/Migrations
 /wwwroot
+/appsettings.json
+/bin
